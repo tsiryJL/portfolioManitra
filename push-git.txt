@@ -1,0 +1,4 @@
+Open gitbash =>
+git add .
+git commmit -m "izay zvtra natao"
+git push origin master
